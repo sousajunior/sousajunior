@@ -4,13 +4,13 @@
 
 - **I work as programmer since 2016** and during this time, i already have programmed with **C#, Ruby, Javascript and Python**.
 
-- Currently I'm, working with my favourite language (**Ruby** 💎), as a backend engineer at [@totalpass](https://totalpass.com/br/).
+- Currently, I'm working with my favourite language (**Ruby** 💎), as a backend engineer at [@totalpass](https://totalpass.com/br/).
 
 - I have experience with some javascript frameworks like **Reactjs, Angular and Ionic**.
 
 - I've worked with some designs frameworks too, like **Bootstrap ❤️, Materialize and Tailwind**.
 
-- In the database area, i worked with **postgres** on most part of time, but i already worked with **mongodb** as well.
+- In the database area, I worked with **postgres** on most part of time, but i already worked with **mongodb** as well.
 
 - I'm a developer that cannot work without tests, because this is stupid **TDD is my religion**.
 
