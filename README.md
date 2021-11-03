@@ -10,9 +10,9 @@
 
 - I've worked with some front-end frameworks too, like **Bootstrap ❤️, Materialize and Tailwind**.
 
-- In the database area, I worked with **postgres** on most part of time, but I already worked with **mongodb** as well.
+- On the database area, I worked with **postgres** on most part of time, but I already worked with **mongodb** as well.
 
-- I'm a developer that cannot work without tests, **TDD is my religion**.
+- I'm a developer that cannot work without tests because **TDD is my religion**.
 
 - I consider myself a happy guy who is always trying to get people around him to have a good laugh.
 
