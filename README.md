@@ -20,6 +20,4 @@
 
 - **My ideal work company** is composed of a relaxed work environment with people who like to help each other and share experiences.
 
-#### 👉 Check it out my others social medias: [Instagram](https://www.instagram.com/carlinhossousajr/) - [Linkedin](https://www.linkedin.com/in/carlinhos-sousa-junior/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousajunior&count_private=true&show_icons=true&theme=dark)
