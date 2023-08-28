@@ -20,4 +20,4 @@
 
 - **My ideal work company** is composed of a relaxed work environment with people who like to help each other and share experiences.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousajunior&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-sousajunior.vercel.app/api?username=sousajunior&show_icons=true&theme=dark)
